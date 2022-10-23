@@ -1,0 +1,9 @@
+@media only screen and (max-width:688px) {
+    .d-flex{
+        flex-direction: column;
+    }
+    .carousel-caption{
+        font-size:xx-small;
+    }
+    
+}
